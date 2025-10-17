@@ -1,12 +1,14 @@
 # DeepLearning
 
-2025-10-11  学习1-pytorch入门到张量的基本运算-张量的形状操作
-2025-10-12  学习1-pytorch入门结束，开始2-神经网络到LeNet实现MNIST识别
-2025-10-13  学习2-神经网络，完成AlexNet和ResNet，开始3-Transformer到attention
-2025-10-14  重新学习3-Transformer，完成encoder学习
-2025-10-15  完成3-Transformer，形成一版完整的Transformer，完成4-transformer-translation，将自己写的transformer用于英译中任务，完成5-ViT，实现ViT模型
+- 2025-10-11  学习1-pytorch入门到张量的基本运算-张量的形状操作
+- 2025-10-12  学习1-pytorch入门结束，开始2-神经网络到LeNet实现MNIST识别
+- 2025-10-13  学习2-神经网络，完成AlexNet和ResNet，开始3-Transformer到attention
+- 2025-10-14  重新学习3-Transformer，完成encoder学习
+- 2025-10-15  完成3-Transformer，形成一版完整的Transformer，完成4-transformer-translation，将自己写的transformer用于英译中任务，完成5-ViT，实现ViT模型
 
-2025-10-15总结
+---
+
+### 2025-10-15总结
 
 这段时间系统学习了深度学习的核心内容，从PyTorch基础 → CNN → Transformer → ViT，几乎涵盖了现代深度学习的核心脉络
 
@@ -24,5 +26,7 @@
 
 接下来准备对 CLIP 进行学习，然后对 swing transformer 等transformer的变体也很好奇，想去了解。
 
+---
 
-2025-10-17 完成6-CLIPmodel，学习CLIP原理及代码实现，调用模型体验强大的零样本分类能力
+
+- 2025-10-17 完成6-CLIPmodel，学习CLIP原理及代码实现，调用模型体验强大的零样本分类能力
